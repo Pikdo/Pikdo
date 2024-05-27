@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alejandro Picado (pikdo)
+# 👋 Hi, I’m Alejandro Picado (PiKdo)
 
 👀 I’m interested in current technolgy, financial literacy, science, astronomy and enviroment. 
 
