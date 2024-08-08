@@ -20,18 +20,6 @@ To be an active positive leader of world´s digital transformation, competent, e
 -------------------
 https://www.doyoubuzz.com/jose-alejandro-picado-brenes
 
-📫 How to reach me:
------------------------
-
-🟦 Twitter: @Pikdo
-
-🈹 Instagram: @alepikdo
-
-🛅 LinkedIn: https://www.linkedin.com/in/pikdo/
-
-💚 Platzi: https://platzi.com/p/pikdo/
-
-
 <!---
 Pikdo/Pikdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
