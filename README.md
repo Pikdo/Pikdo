@@ -1,8 +1,10 @@
 # 👋 Hi, I’m Alejandro Picado (PiKdo)
 
-👀 I’m interested in current technolgy, financial literacy, science, astronomy and enviroment. 
+</> I'm software engineer for 15 years
 
-🌱 I’m currently learning english, financial literacy, docker, web development.
+👀 I’m interested in technolgy, financial literacy, science, astronomy and enviroment. 
+
+🌱 I’m currently learning about development assisted by AI and about everything.
 
 🥂 I’m looking to collaborate on startups, science and social areas.
 
